@@ -1,0 +1,12 @@
+A. System requirements
+1. python3
+2. pyqt5
+3. pytorch (> 0.4.0)
+
+B. dependency
+pip install virtualenv
+env create pyqt
+pip install -r ./pip_Zero.txt
+Intsall pyqt5 for this environment
+Install pytorch : pip install pytorch==0.4.0 or higher
+
