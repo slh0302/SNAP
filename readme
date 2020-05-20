@@ -12,4 +12,6 @@ Install pytorch : pip install pytorch==0.4.0 or higher
 
 
 C. Run
+// Under the pyLabel directory
+cd ui_func
 python3 ./frames.py
