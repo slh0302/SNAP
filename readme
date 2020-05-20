@@ -10,3 +10,6 @@ pip install -r ./pip_Zero.txt
 Intsall pyqt5 for this environment
 Install pytorch : pip install pytorch==0.4.0 or higher
 
+
+C. Run
+python3 ./frames.py
