@@ -4,6 +4,11 @@ A. System requirements
 3. pytorch (> 0.4.0)
 
 B. dependency
+// Under the pyLabel directory
+mkdir checkpoint
+Download "siam.model" to checkpoint
+siam.model: 链接: https://pan.baidu.com/s/1u8I3NyjlrCGZSESdpMOofw 提取码: vtsh
+
 pip install virtualenv
 env create pyqt
 pip install -r ./pip_Zero.txt
