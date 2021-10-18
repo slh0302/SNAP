@@ -4,10 +4,10 @@ A. System requirements
 3. pytorch (> 0.4.0)
 
 B. dependency
-// Under the pyLabel directory
+// Under the SNAP-master directory
 mkdir checkpoint
 Download "siam.model" to checkpoint
-siam.model: 链接: https://pan.baidu.com/s/1u8I3NyjlrCGZSESdpMOofw 提取码: vtsh
+siam.model: cn-link: https://pan.baidu.com/s/1u8I3NyjlrCGZSESdpMOofw code: vtsh
 
 pip install virtualenv
 env create pyqt
@@ -17,6 +17,6 @@ Install pytorch : pip install pytorch==0.4.0 or higher
 
 
 C. Run
-// Under the pyLabel directory
+// Under the SNAP-master directory
 cd ui_func
 python3 ./frames.py
